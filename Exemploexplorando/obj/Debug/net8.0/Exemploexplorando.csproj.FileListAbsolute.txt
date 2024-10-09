@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\bin\Debug\net8.0\Exemploexplorando.exe
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\bin\Debug\net8.0\Exemploexplorando.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\bin\Debug\net8.0\Exemploexplorando.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\bin\Debug\net8.0\Exemploexplorando.dll
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\bin\Debug\net8.0\Exemploexplorando.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.dll
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\refint\Exemploexplorando.dll
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\ref\Exemploexplorando.dll
