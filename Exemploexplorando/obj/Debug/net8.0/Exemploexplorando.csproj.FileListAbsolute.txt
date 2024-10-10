@@ -12,3 +12,4 @@ C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#
 C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.pdb
 C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.genruntimeconfig.cache
 C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\ref\Exemploexplorando.dll
+C:\Users\leopd\Desktop\Atividades DIO\Propriedades, metodos e contrutores com C#\Exemploexplorando\obj\Debug\net8.0\Exemploexplorando.sourcelink.json

@@ -8,12 +8,12 @@ namespace Exemploexplorando.Models
     public class Pessoa
     {
         private string _nome; // Usamos o _nome para poder armazenar os valores 
+        private int _idade; //Usado para validar o valor de idade
+
         public string Nome 
         { 
-            get 
-            {
-                return _nome.ToUpper();//Toupper para tornar maiusculo o meu nome
-            }
+            get =>_nome.ToUpper();//Toupper para tornar maiusculo o meu nome 
+            // tornado sucinto o metodo porem pode ser feito com o Return
 
             set
             {
@@ -26,11 +26,29 @@ namespace Exemploexplorando.Models
             } 
         }
 
-        public int Idade { get; set; }//se eles estiver vazio ele aceitas qualquer valor que for atribuido a ele. 
+        public string Sobrenome { get; set; }
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
+        public int Idade 
+        {     
+            get => _idade; 
+
+            set 
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero");
+                }
+
+                _idade = value;
+            } 
+        
+        }//se eles estiver vazio ele aceitas qualquer valor que for atribuido a ele. 
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}"); //nome e idade são exemplos de GET e SET dentro da minha propriedade
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}"); //nome e idade são exemplos de GET e SET dentro da minha propriedade
         }
 
     }
