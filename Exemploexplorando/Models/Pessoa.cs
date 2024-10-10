@@ -7,6 +7,18 @@ namespace Exemploexplorando.Models
 {
     public class Pessoa
     {
+
+        public Pessoa()
+        {
+
+        }
+
+        public Pessoa(string nome, string sobrenome)//sempre vai ter o mesmo nome da sua classe, e ele não possuiu um retorno. 
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
         private string _nome; // Usamos o _nome para poder armazenar os valores 
         private int _idade; //Usado para validar o valor de idade
 
